@@ -30,6 +30,11 @@ The data is stored in a DynamoDB table with the following attributes:
 
 ![DynamoDB Table](Screenshot 2025-03-25 203743.png)
 
+## Lambda function
+The code is written here
+
+![lambda function](Screenshot 2025-03-25 203743.png)
+
 ## Project Setup & Deployment
 ### Prerequisites
 - AWS Account
