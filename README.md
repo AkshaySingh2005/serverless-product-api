@@ -32,7 +32,7 @@ The data is stored in a DynamoDB table with the following attributes:
 
 
 ## Lambda function
-The code is written here
+The code is written in the console here
 
 ![lambda function](https://github.com/AkshaySingh2005/serverless-product-api/blob/main/img/Lamdba%20function.png)
 
