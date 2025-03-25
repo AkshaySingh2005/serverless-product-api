@@ -1,4 +1,4 @@
-# Serverless API Project on AWS
+# Serverless API Project on AWS ☁️
 
 This project is a serverless API built using AWS services including API Gateway, AWS Lambda, and DynamoDB. The API allows CRUD operations on a product database.
 
@@ -72,6 +72,6 @@ This project was implemented following these steps:
 - Use **AWS SAM or Serverless Framework** for easier deployment.
 
 ---
-**Author**: [Your Name]  
+**Author**: [AkshaySingh2005]  
 **License**: MIT  
-**Date**: March 2025  
+**Date**: 25 March 2025  
