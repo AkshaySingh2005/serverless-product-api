@@ -12,7 +12,7 @@ This project is a serverless API built using AWS services including API Gateway,
 - [Best Practices](#best-practices)
 
 ## Architecture
-![Architecture](download.png)
+![Architecture](https://github.com/AkshaySingh2005/serverless-product-api/blob/main/img/Architecture.png)
 
 ## AWS Services Used
 1. **API Gateway** - Manages HTTP requests and routes them to AWS Lambda functions, acting as the entry point to the API.
@@ -23,17 +23,18 @@ This project is a serverless API built using AWS services including API Gateway,
 ## API Endpoints
 The following endpoints are available in the API:
 
-![API Endpoints](Screenshot 2025-03-25 203817.png)
+![API Endpoints](https://github.com/AkshaySingh2005/serverless-product-api/blob/main/img/API%20Endpoints.png)
 
 ## DynamoDB Table Structure
 The data is stored in a DynamoDB table with the following attributes:
 
-![DynamoDB Table](Screenshot 2025-03-25 203743.png)
+![DynamoDB Table](https://github.com/AkshaySingh2005/serverless-product-api/blob/main/img/DynamoDB%20Table.png)
+
 
 ## Lambda function
 The code is written here
 
-![lambda function](Screenshot 2025-03-25 203743.png)
+![lambda function](https://github.com/AkshaySingh2005/serverless-product-api/blob/main/img/Lamdba%20function.png)
 
 ## Project Setup & Deployment
 ### Prerequisites
